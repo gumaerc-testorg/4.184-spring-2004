@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: 'Sequence Three: Relational. Image courtesy of Nicholas Rader.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-184-architectural-design-workshop-collage-method-and-form-spring-2004/045733a489871dcf072b51f16b713def_Slide20.jpg
+file: /media/courses/4-184-architectural-design-workshop-collage-method-and-form-spring-2004/045733a489871dcf072b51f16b713def_Slide20.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'Sequence Three: Relational.'
   credit: Image courtesy of Nicholas Rader.
   image-alt: 'Sequence Three: Relational.'
+learning_resource_types:
+- Projects
+ocw_type: OCWImage
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: Slide20.jpg
 uid: 045733a4-8987-1dcf-072b-51f16b713def

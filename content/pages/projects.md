@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 855ff769-9e1e-4ff7-5e9b-2416fa3c27b1
 ---
@@ -14,7 +17,7 @@ Sequence Three ([PDF - 2.0 MB]({{< baseurl >}}/resources/final_c)) (Courtesy of 
 
 Image Gallery
 -------------
-{{< image-gallery id="855ff769-9e1e-4ff7-5e9b-2416fa3c27b1_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-184-architectural-design-workshop-collage-method-and-form-spring-2004/" >}}
+{{< image-gallery id="855ff769-9e1e-4ff7-5e9b-2416fa3c27b1_nanogallery2" baseUrl="/courses/4-184-architectural-design-workshop-collage-method-and-form-spring-2004/" >}}
 {{< image-gallery-item href="1d205960eb1cabe3b6b7eadd859d1bdb_Slide1.jpg" data-ngdesc="Sequence One: Extraction. Image courtesy of Kyle Steinfeld." text="Sequence One: Extraction." >}}
 {{< image-gallery-item href="9b09e1b2b78bf8760be27376603f118c_Slide2.jpg" data-ngdesc="Sequence One: Extraction. Image courtesy of Christopher Kempster." text="Sequence One: Extraction." >}}
 {{< image-gallery-item href="06a96b196727659c8537ae671fc87236_Slide3.jpg" data-ngdesc="Sequence One: Extraction. Image courtesy of Naveem Mowlah." text="Sequence One: Extraction." >}}

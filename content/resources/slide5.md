@@ -2,12 +2,17 @@
 content_type: resource
 description: 'Sequence One: Extraction. Image courtesy of Jelena Pejkovic and Pablo
   Wenceslao. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-184-architectural-design-workshop-collage-method-and-form-spring-2004/a27b6c784811b625238efb0111c29672_Slide5.jpg
+file: /media/courses/4-184-architectural-design-workshop-collage-method-and-form-spring-2004/a27b6c784811b625238efb0111c29672_Slide5.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'Sequence One: Extraction.'
   credit: Image courtesy of Jelena Pejkovic and Pablo Wenceslao.
   image-alt: 'Sequence One: Extraction.'
+learning_resource_types:
+- Projects
+ocw_type: OCWImage
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: Slide5.jpg
 uid: a27b6c78-4811-b625-238e-fb0111c29672
