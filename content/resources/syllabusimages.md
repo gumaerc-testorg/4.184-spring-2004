@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: bb862de8-5997-faa9-2734-8306e1249356
 resourcetype: Document
 title: syllabusimages.pdf
 uid: 607ee4c6-ca33-c475-6b1d-a6dff69a95e7
