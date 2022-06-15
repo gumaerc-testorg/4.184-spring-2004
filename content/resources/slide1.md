@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Sequence One: Extraction. Image courtesy of Kyle Steinfeld.'
-file: /media/courses/4-184-architectural-design-workshop-collage-method-and-form-spring-2004/1d205960eb1cabe3b6b7eadd859d1bdb_Slide1.jpg
+file: /courses/4-184-architectural-design-workshop-collage-method-and-form-spring-2004/1d205960eb1cabe3b6b7eadd859d1bdb_Slide1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'Sequence One: Extraction.'
@@ -17,3 +17,5 @@ resourcetype: Image
 title: Slide1.jpg
 uid: 1d205960-eb1c-abe3-b6b7-eadd859d1bdb
 ---
+Sequence One: Extraction. Image courtesy of Kyle Steinfeld.
+

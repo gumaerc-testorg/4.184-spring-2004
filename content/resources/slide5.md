@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Sequence One: Extraction. Image courtesy of Jelena Pejkovic and Pablo
   Wenceslao. '
-file: /media/courses/4-184-architectural-design-workshop-collage-method-and-form-spring-2004/a27b6c784811b625238efb0111c29672_Slide5.jpg
+file: /courses/4-184-architectural-design-workshop-collage-method-and-form-spring-2004/a27b6c784811b625238efb0111c29672_Slide5.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'Sequence One: Extraction.'
@@ -18,3 +18,5 @@ resourcetype: Image
 title: Slide5.jpg
 uid: a27b6c78-4811-b625-238e-fb0111c29672
 ---
+Sequence One: Extraction. Image courtesy of Jelena Pejkovic and Pablo Wenceslao. 
+

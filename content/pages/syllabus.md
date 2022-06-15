@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -16,4 +17,4 @@ My critique of the work, therefore, was never about a student's intention (in re
 
 The semester was also designed around the question of scale. In the first third of the semester we worked toward making something only a few inches square, the idea being to get the students to sharpen their intensity and skills of observation. The second third students made things that could be held by the hand; and in the final part of the semester the students moved to the scale of the wall by working on large door panels. The purpose was to get the students to continually think of the interrelationship of these scales.
 
-The Syllabus, in Graphic Form ([PDF]({{< baseurl >}}/resources/syllabusimages))
+The Syllabus, in Graphic Form ({{% resource_link 607ee4c6-ca33-c475-6b1d-a6dff69a95e7 "PDF" %}})
