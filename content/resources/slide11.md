@@ -9,6 +9,7 @@ image_metadata:
   image-alt: 'Sequence Two: Expansion.'
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Slide11.jpg
 uid: 87311afe-7542-6176-22a6-e1a0e4373fc4
 ---
 Sequence Two: Expansion. Image courtesy of Naveem Mowlah.
-

@@ -9,6 +9,7 @@ image_metadata:
   image-alt: 'Sequence One: Extraction.'
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Slide3.jpg
 uid: 06a96b19-6727-659c-8537-ae671fc87236
 ---
 Sequence One: Extraction. Image courtesy of Naveem Mowlah.
-

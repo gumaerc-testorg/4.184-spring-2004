@@ -6,6 +6,7 @@ file: /courses/4-184-architectural-design-workshop-collage-method-and-form-sprin
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: final_c.pdf
 uid: 4935fa5b-0d3e-1e2d-460f-dcb48ae149b4
 ---
 Samples of student work from 'Sequence Three: Relational'. Courtesy of Pablo Wenceslao. Used with permission.
-

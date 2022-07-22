@@ -9,6 +9,7 @@ image_metadata:
   image-alt: 'Sequence One: Extraction.'
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Slide1.jpg
 uid: 1d205960-eb1c-abe3-b6b7-eadd859d1bdb
 ---
 Sequence One: Extraction. Image courtesy of Kyle Steinfeld.
-

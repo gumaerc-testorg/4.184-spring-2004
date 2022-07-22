@@ -9,6 +9,7 @@ image_metadata:
   image-alt: 'Sequence Two: Expansion.'
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Slide12.jpg
 uid: 124e9c25-2314-65df-150e-084b6423e104
 ---
 Sequence Two: Expansion. Image courtesy of Kwan Chan.
-

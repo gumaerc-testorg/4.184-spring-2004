@@ -9,6 +9,7 @@ image_metadata:
   image-alt: 'Sequence One: Extraction.'
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Slide7.jpg
 uid: 273c8f6a-40b9-9f71-f192-201053d2f255
 ---
 Sequence One: Extraction. Image courtesy of Kwan Chan.
-

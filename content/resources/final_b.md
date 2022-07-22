@@ -6,6 +6,7 @@ file: /courses/4-184-architectural-design-workshop-collage-method-and-form-sprin
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: final_b.pdf
 uid: ef55a913-7490-6fb3-a94c-4e98b21243ee
 ---
 Samples of student work from 'Sequence Two: Expansion'. Courtesy of Pablo Wenceslao. Used with permission.
-

@@ -9,6 +9,7 @@ image_metadata:
   image-alt: 'Sequence One: Extraction.'
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Slide6.jpg
 uid: 50c3df74-8c1e-7cd8-7907-b529439b4706
 ---
 Sequence One: Extraction. Image courtesy of Jelena Pejkovic.
-

@@ -9,6 +9,7 @@ image_metadata:
   image-alt: 'Sequence One: Extraction.'
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Slide4.jpg
 uid: 5479f6db-383f-6b02-cb8d-d19e23a986e6
 ---
 Sequence One: Extraction. Image courtesy of Mark Jarzombek.
-

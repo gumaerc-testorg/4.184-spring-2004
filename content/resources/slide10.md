@@ -9,6 +9,7 @@ image_metadata:
   image-alt: 'Sequence Two: Expansion.'
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Slide10.jpg
 uid: 86272dc9-1b1e-bf06-f297-d28aad751db6
 ---
 Sequence Two: Expansion. Image courtesy of Mark Jarzombek.
-

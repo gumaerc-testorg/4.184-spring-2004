@@ -6,6 +6,7 @@ file: /courses/4-184-architectural-design-workshop-collage-method-and-form-sprin
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: final_a.pdf
 uid: 39a1e389-f255-57a4-5d28-40dcdec7c2c3
 ---
 Samples of student work from 'Sequence One: Extraction'. Courtesy of Pablo Wenceslao. Used with permission.
-

@@ -9,6 +9,7 @@ image_metadata:
   image-alt: 'Sequence One: Extraction.'
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Slide2.jpg
 uid: 9b09e1b2-b78b-f876-0be2-7376603f118c
 ---
 Sequence One: Extraction. Image courtesy of Christopher Kempster.
-

@@ -6,6 +6,7 @@ file: /courses/4-184-architectural-design-workshop-collage-method-and-form-sprin
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: assignments.pdf
 uid: ba6c00f7-fbe3-ebc0-e5ae-d6f5c3db3813
 ---
 This document contains description of the course assignments and exercises along with  samples of student work.
-

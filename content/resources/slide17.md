@@ -9,6 +9,7 @@ image_metadata:
   image-alt: 'Sequence Three: Relational.'
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Slide17.jpg
 uid: 9315b46d-2e68-4522-b2cc-cc8dd20c5eb6
 ---
 Sequence Three: Relational. Image courtesy of Kwan Chan.
-
