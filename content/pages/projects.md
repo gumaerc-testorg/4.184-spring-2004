@@ -39,4 +39,4 @@ Sequence Three ({{% resource_link 4935fa5b-0d3e-1e2d-460f-dcb48ae149b4 "PDF - 2.
 {{< image-gallery-item href="92537853c191c3ef2b13abdc697a07fe_Slide18.jpg" data-ngdesc="Sequence Three: Relational. Image courtesy of Jelena Pejkovic." text="Sequence Three: Relational." >}}  
 {{< image-gallery-item href="caa9801f85d8b38c2b0ac8d4a93725fb_Slide19.jpg" data-ngdesc="Sequence Three: Relational. Image courtesy of Kyle Steinfeld." text="Sequence Three: Relational." >}}  
 {{< image-gallery-item href="045733a489871dcf072b51f16b713def_Slide20.jpg" data-ngdesc="Sequence Three: Relational. Image courtesy of Nicholas Rader." text="Sequence Three: Relational." >}}  
-{{}}
+{{</ image-gallery >}}
