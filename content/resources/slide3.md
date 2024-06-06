@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Sequence One: Extraction. Image courtesy of Naveem Mowlah.'
 file: /courses/4-184-architectural-design-workshop-collage-method-and-form-spring-2004/06a96b196727659c8537ae671fc87236_Slide3.jpg
+file_size: 39812
 file_type: image/jpeg
 image_metadata:
   caption: 'Sequence One: Extraction.'

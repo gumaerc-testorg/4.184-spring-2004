@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Sequence Two: Expansion. Image courtesy of Pablo Wenceslao.'
 file: /courses/4-184-architectural-design-workshop-collage-method-and-form-spring-2004/d856fa41b1cbb70c67549a6bc34c96fb_Slide8.jpg
+file_size: 24056
 file_type: image/jpeg
 image_metadata:
   caption: 'Sequence Two: Expansion.'
