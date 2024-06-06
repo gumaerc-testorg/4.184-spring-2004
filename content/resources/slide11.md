@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Sequence Two: Expansion. Image courtesy of Naveem Mowlah.'
 file: /courses/4-184-architectural-design-workshop-collage-method-and-form-spring-2004/87311afe7542617622a6e1a0e4373fc4_Slide11.jpg
+file_size: 32389
 file_type: image/jpeg
 image_metadata:
   caption: 'Sequence Two: Expansion.'

@@ -3,6 +3,7 @@ content_type: resource
 description: 'Samples of student work from ''Sequence One: Extraction''. Courtesy
   of Pablo Wenceslao. Used with permission.'
 file: /courses/4-184-architectural-design-workshop-collage-method-and-form-spring-2004/39a1e389f25557a45d2840dcdec7c2c3_final_a.pdf
+file_size: 1176804
 file_type: application/pdf
 learning_resource_types:
 - Projects

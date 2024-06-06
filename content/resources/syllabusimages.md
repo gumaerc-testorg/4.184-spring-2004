@@ -2,6 +2,7 @@
 content_type: resource
 description: Diagrams of sample student interaction.
 file: /courses/4-184-architectural-design-workshop-collage-method-and-form-spring-2004/607ee4c6ca33c4756b1da6dff69a95e7_syllabusimages.pdf
+file_size: 70887
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
