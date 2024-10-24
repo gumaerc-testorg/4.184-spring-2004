@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Sequence Two: Expansion. Image courtesy of Kwan Chan.'
-file: /courses/4-184-architectural-design-workshop-collage-method-and-form-spring-2004/124e9c25231465df150e084b6423e104_Slide12.jpg
+file: /ol-ocw-studio-app/courses/4-184-architectural-design-workshop-collage-method-and-form-spring-2004/124e9c25231465df150e084b6423e104_Slide12.jpg
 file_size: 32999
 file_type: image/jpeg
 image_metadata:
