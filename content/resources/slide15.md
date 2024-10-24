@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Sequence Three: Relational. Image courtesy of Christopher Kempster.'
-file: /courses/4-184-architectural-design-workshop-collage-method-and-form-spring-2004/6fd0c07ba21e20a1b1eec73dec48c68e_Slide15.jpg
+file: /ol-ocw-studio-app/courses/4-184-architectural-design-workshop-collage-method-and-form-spring-2004/6fd0c07ba21e20a1b1eec73dec48c68e_Slide15.jpg
 file_size: 56485
 file_type: image/jpeg
 image_metadata:
