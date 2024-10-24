@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Samples of student work from ''Sequence Two: Expansion''. Courtesy of
   Pablo Wenceslao. Used with permission.'
-file: /courses/4-184-architectural-design-workshop-collage-method-and-form-spring-2004/ef55a91374906fb3a94c4e98b21243ee_final_b.pdf
+file: /ol-ocw-studio-app/courses/4-184-architectural-design-workshop-collage-method-and-form-spring-2004/ef55a91374906fb3a94c4e98b21243ee_final_b.pdf
 file_size: 862548
 file_type: application/pdf
 learning_resource_types:
