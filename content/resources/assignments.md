@@ -2,7 +2,7 @@
 content_type: resource
 description: This document contains description of the course assignments and exercises
   along with  samples of student work.
-file: /ol-ocw-studio-app/courses/4-184-architectural-design-workshop-collage-method-and-form-spring-2004/ba6c00f7fbe3ebc0e5aed6f5c3db3813_assignments.pdf
+file: /courses/4-184-architectural-design-workshop-collage-method-and-form-spring-2004/ba6c00f7fbe3ebc0e5aed6f5c3db3813_assignments.pdf
 file_size: 571096
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Sequence Three: Relational. Image courtesy of Naveem Mowlah.'
-file: /ol-ocw-studio-app/courses/4-184-architectural-design-workshop-collage-method-and-form-spring-2004/6db49330363be3c492e96e53b4e2ba56_Slide14.jpg
+file: /courses/4-184-architectural-design-workshop-collage-method-and-form-spring-2004/6db49330363be3c492e96e53b4e2ba56_Slide14.jpg
 file_size: 47267
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Sequence Two: Expansion. Image courtesy of Mark Jarzombek.'
-file: /ol-ocw-studio-app/courses/4-184-architectural-design-workshop-collage-method-and-form-spring-2004/86272dc91b1ebf06f297d28aad751db6_Slide10.jpg
+file: /courses/4-184-architectural-design-workshop-collage-method-and-form-spring-2004/86272dc91b1ebf06f297d28aad751db6_Slide10.jpg
 file_size: 31416
 file_type: image/jpeg
 image_metadata:
