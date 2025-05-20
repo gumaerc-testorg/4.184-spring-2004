@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Sequence Three: Relational. Image courtesy of Kwan Chan.'
-file: /ol-ocw-studio-app/courses/4-184-architectural-design-workshop-collage-method-and-form-spring-2004/9315b46d2e684522b2cccc8dd20c5eb6_Slide17.jpg
+file: /courses/4-184-architectural-design-workshop-collage-method-and-form-spring-2004/9315b46d2e684522b2cccc8dd20c5eb6_Slide17.jpg
 file_size: 47509
 file_type: image/jpeg
 image_metadata:
