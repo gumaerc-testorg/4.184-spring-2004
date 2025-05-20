@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Samples of student work from ''Sequence Three: Relational''. Courtesy
   of Pablo Wenceslao. Used with permission.'
-file: /ol-ocw-studio-app/courses/4-184-architectural-design-workshop-collage-method-and-form-spring-2004/4935fa5b0d3e1e2d460fdcb48ae149b4_final_c.pdf
+file: /courses/4-184-architectural-design-workshop-collage-method-and-form-spring-2004/4935fa5b0d3e1e2d460fdcb48ae149b4_final_c.pdf
 file_size: 2065891
 file_type: application/pdf
 learning_resource_types:

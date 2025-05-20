@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Sequence One: Extraction. Image courtesy of Mark Jarzombek.'
-file: /ol-ocw-studio-app/courses/4-184-architectural-design-workshop-collage-method-and-form-spring-2004/5479f6db383f6b02cb8dd19e23a986e6_Slide4.jpg
+file: /courses/4-184-architectural-design-workshop-collage-method-and-form-spring-2004/5479f6db383f6b02cb8dd19e23a986e6_Slide4.jpg
 file_size: 36860
 file_type: image/jpeg
 image_metadata:

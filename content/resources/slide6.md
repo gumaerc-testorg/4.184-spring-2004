@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Sequence One: Extraction. Image courtesy of Jelena Pejkovic.'
-file: /ol-ocw-studio-app/courses/4-184-architectural-design-workshop-collage-method-and-form-spring-2004/50c3df748c1e7cd87907b529439b4706_Slide6.jpg
+file: /courses/4-184-architectural-design-workshop-collage-method-and-form-spring-2004/50c3df748c1e7cd87907b529439b4706_Slide6.jpg
 file_size: 41064
 file_type: image/jpeg
 image_metadata:

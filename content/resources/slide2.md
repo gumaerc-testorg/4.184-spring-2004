@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Sequence One: Extraction. Image courtesy of Christopher Kempster.'
-file: /ol-ocw-studio-app/courses/4-184-architectural-design-workshop-collage-method-and-form-spring-2004/9b09e1b2b78bf8760be27376603f118c_Slide2.jpg
+file: /courses/4-184-architectural-design-workshop-collage-method-and-form-spring-2004/9b09e1b2b78bf8760be27376603f118c_Slide2.jpg
 file_size: 36677
 file_type: image/jpeg
 image_metadata:
