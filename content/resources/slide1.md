@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Sequence One: Extraction. Image courtesy of Kyle Steinfeld.'
-file: /courses/4-184-architectural-design-workshop-collage-method-and-form-spring-2004/1d205960eb1cabe3b6b7eadd859d1bdb_Slide1.jpg
+file: /ol-ocw-studio-app/courses/4-184-architectural-design-workshop-collage-method-and-form-spring-2004/1d205960eb1cabe3b6b7eadd859d1bdb_Slide1.jpg
 file_size: 21643
 file_type: image/jpeg
 image_metadata:
