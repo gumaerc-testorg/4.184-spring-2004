@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Sequence One: Extraction. Image courtesy of Kwan Chan.'
-file: /courses/4-184-architectural-design-workshop-collage-method-and-form-spring-2004/273c8f6a40b99f71f192201053d2f255_Slide7.jpg
+file: /ol-ocw-studio-app/courses/4-184-architectural-design-workshop-collage-method-and-form-spring-2004/273c8f6a40b99f71f192201053d2f255_Slide7.jpg
 file_size: 20708
 file_type: image/jpeg
 image_metadata:
